@@ -6,10 +6,10 @@
 
 ---
 
-####How to reach me:
+#### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/stanislav-rudoi/) [![Telegram](https://img.shields.io/badge/-Telegram-161b22?style=for-the-badge&logo=telegram)](https://t.me/Stanislav_R) [![Email](https://img.shields.io/badge/-Mail-161b22?style=for-the-badge&logo=gmail)](mailto:stanislav.rudoi@gmail.com)
 
-####My stack and tools:
+#### My stack and tools:
 
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Azure" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
@@ -26,7 +26,7 @@
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-####My GitHub Stats:
+#### My GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislav-r&theme=react&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislav-r&layout=compact&theme=react)
